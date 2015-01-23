@@ -1,0 +1,2 @@
+# GeolocalizacionData
+Version mejorada
